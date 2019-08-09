@@ -3,6 +3,7 @@ header{
 	right: 6.5%;
 
 }
+
 .igual{
 	display: inline-block;
 	width:86px ;
@@ -14,6 +15,8 @@ header{
 .Chukwudi{
 	display: inline-block;
 	font-size: 230%;
+	font-family: sans-serif;
+    font-style: normal;
 	position: relative;
 	left: 6.7%;
 }
@@ -42,11 +45,6 @@ header{
 	bottom: 2.4px;
 	top: 2px;
 }
-.order{
-	position: absolute;
-	padding-bottom: 45%;
-
-}
 .men{
 	width:260px ;
 	height:260px;
@@ -60,6 +58,8 @@ header{
 	font-size: 29px;
 	top:29%;
 	left: 40%;
+	font-family: sans-serif;
+    font-style: normal;
 }
 .d{
 	position: relative;
@@ -71,13 +71,17 @@ header{
 	color: ;
 	font-size: 13.9px;
 	left: 40%;
-	bottom:145px; 
+	bottom:145px;
+	font-family: sans-serif;
+    font-style: normal; 
 }
 .h4{
 	position: relative;
 	bottom: 120px;
 	left: 83%;
 	color:#F97D01   ;
+	font-family: sans-serif;
+    font-style: normal;
 }
 .flecha{
 	position: relative;
@@ -101,14 +105,16 @@ header{
 }
 .Restaurant{
 	position: relative;
-	left: 3.5%;
+	font-family: sans-serif;
+    font-style: normal;
 	font-size: 35px;
+	left: 40px;
 }
 .hamburgesa{
 	width:44px;
 	right:44px;
 	position: relative;
-	left: 17%;
+	left: 20%;
 	bottom:70px; 
 
 }
@@ -127,9 +133,8 @@ header{
 	left: 34%;
 	bottom: 48px; 
 	color: white;
-}
-.section1{
-	
+	font-family: sans-serif;
+    font-style: normal;
 }
 .Now{
 	width: 200px;
@@ -142,7 +147,7 @@ header{
 }
 .caja{
 	position: absolute;
-	background: #E2EE29  ;
+	background: #EEF0D0  ;
 	border-radius: 50px;
 	width: 74px;
 	height: 120px;
@@ -160,8 +165,11 @@ header{
 }
 .all{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
 	top: 32%;
-	left: 26%;
+	left: 30%;
+	color: black;
 }
 .caja1{
     position: absolute;
@@ -184,7 +192,11 @@ header{
 .pizza1{
 	position: absolute;
     top: 32%;
-	left: 20%
+	left: 20%;
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
 }
 .caja2{
     position: absolute;
@@ -205,6 +217,9 @@ header{
 }
 .asion1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
     top: 32%;
 	left: 18%
 }
@@ -220,6 +235,7 @@ header{
 }
 .hamburgesa1{
 	position: absolute;
+	background: white;
 	width: 60px;
 	height:60px;
 	border-radius: 90px;
@@ -228,6 +244,9 @@ header{
 }
 .burger1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
     top: 32%;
 	left: 17%;
 }		
@@ -243,6 +262,7 @@ header{
 }
 .carne{
 	position: absolute;
+	background: white;
 	width: 60px;
 	height:60px;
 	border-radius: 90px;
@@ -251,6 +271,9 @@ header{
 }
 .carne1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
 	font-size: 110%;
     top: 32%;
 	left: 1px;
@@ -266,6 +289,7 @@ header{
 }
 .postre{
 	position: absolute;
+	background: white;
 	width: 60px;
 	height:60px;
 	border-radius: 90px;
@@ -274,6 +298,9 @@ header{
 }
 .postre1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
 	font-size: 110%;
     top: 32%;
 	left: 1px;
@@ -289,6 +316,7 @@ header{
 }
 .piña{
 	position: absolute;
+	background: white;
 	width: 60px;
 	height:60px;
 	border-radius: 90px;
@@ -297,6 +325,9 @@ header{
 }
 .piña1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
 	font-size: 110%;
     top: 32%;
 	left: 20px;
@@ -312,6 +343,7 @@ header{
 }
 .sushi{
 	position: absolute;
+	background: white;
 	width: 60px;
 	height:60px;
 	border-radius: 90px;
@@ -320,6 +352,9 @@ header{
 }
 .sushi1{
 	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
 	font-size: 110%;
     top: 32%;
 	left: 16px;
@@ -388,14 +423,174 @@ header{
 
 .salmon1{
 	position: relative;
-	bottom: 0px;
+	bottom: 155%;
 	left: 795%;
-} 
-
-.order{
-	position: absolute;
-	padding-bottom: 45%;
-
 }
 
+.order{	
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    top: 18%;
+    left: 1100px;
+}
+.carned{
+	position: absolute;
+	border-radius: 12px;
+	top: 63%;
+	width:100px;
+	left: 1050px;
+}
+.estrella{
+position: absolute;
+width: 23px;
+top: 160%;
+left:50px; 
+}
+.s{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	top: 158%;
+	left: 6.3%;
+}
+.story{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	font-size: 25px;
+	top: 150%;
+	left: 3.8%;
+}
+.estrella1{
+position: absolute;
+width: 23px;
+top: 160%;
+left:25%; 
+}
 
+.staminet{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	font-size: 25px;
+	top: 150%;
+	left: 25%;
+}
+.su{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	top: 158%;
+	left: 27.3%;
+}
+.estrella2{
+  position: absolute;
+  width: 23px;
+  top: 160%;
+  left: 47%;  
+}
+.dokar{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	font-size: 25px;
+	top: 150%;
+	left: 47%;
+}
+.st{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+	color: black;
+	top: 158%;
+	left: 49.5%;
+}
+.emoji{
+	position: absolute;
+	bottom: 73%;
+	right: 5%;
+	width:50px;
+	height: 50px;
+}
+.x{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    right:7%;
+    bottom:25%;
+}
+.papas{
+	position: absolute;
+	border-radius: 12px;
+	top: 80%;
+	width:100px;
+	left: 1050px;
+}
+.z{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    right:6%;
+    bottom:9.5%;
+}
+.queso{
+	position: absolute;
+	border-radius: 12px;
+	top: 100%;
+	width:100px;
+	height:90px; 
+	left: 1050px;
+}
+.y{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    right:5%;
+    top:103%;
+}
+.envio{
+	position: absolute;
+	border-radius: 12px;
+	top: 120%;
+	width:100px;
+	height:90px; 
+	left: 1050px;
+}
+.q{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    right:8.6%;
+    top:123%;
+}
+.total{
+	position: absolute;
+	font-family: sans-serif;
+    font-style: normal;
+    right:10.6%;
+    top:145%;
+}
+.ñ{
+	position: absolute;
+	margin:13px;
+	background: #7001FE ;
+	width:240px;
+	height: 130px;
+	right: 50px;
+	bottom: 45%;
+    border-radius: 23px;
+}
+.rd{
+	position: absolute;
+	top: 60px;
+	width:37px;
+	height:37px;
+	left:20px; ;
+
+}
