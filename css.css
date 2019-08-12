@@ -1,3 +1,7 @@
+
+
+
+
 header{
 	position: relative;
 	right: 6.5%;
@@ -45,6 +49,8 @@ header{
 	bottom: 2.4px;
 	top: 2px;
 }
+
+
 .men{
 	width:260px ;
 	height:260px;
@@ -145,247 +151,251 @@ header{
 	bottom:   130px;
 	left: 55.5%
 }
-.caja{
-	position: absolute;
-	background: #EEF0D0  ;
-	border-radius: 50px;
-	width: 74px;
-	height: 120px;
-	left: 3.4%;
-	padding-bottom: 50px;
-}
 .platon{
 	position: absolute;
-	width: 60px;
-	height:60px;
-	background: white;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01;
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .all{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
-	top: 32%;
-	left: 30%;
+	top: 102%;
+	left: 5.6%;
 	color: black;
-}
-.caja1{
-    position: absolute;
-    background:#EEF0D0   ;
-    width: 74px;
-	height: 120px;
-	left: 11%;
-	padding-bottom: 50px;
-	border-radius: 90px;
 }
 .pizza{
 	position: absolute;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
-
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 110px;
+	visibility:visible;
+	margin: 34px;
 }
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
+}
+
 .pizza1{
 	position: absolute;
-    top: 32%;
-	left: 20%;
+    top: 102%;
+	left: 12.6%;
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
 }
-.caja2{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 18%;
-	padding-bottom: 50px;
-	border-radius: 90px;
-}
+
 .asion{
 	position: absolute;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 15.7%;
+	visibility:visible;
+	margin: 34px;
 }
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
+}
+
 .asion1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-    top: 32%;
-	left: 18%
+    top: 102%;
+	left: 20%;
 }
 
-.caja3{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 25%;
-	padding-bottom: 50px;
-	border-radius: 90px;
-}
+
 .hamburgesa1{
 	position: absolute;
-	background: white;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 23.5%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .burger1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-    top: 32%;
-	left: 17%;
+    top: 102%;
+	left: 27.6%;
 }		
 
-.caja4{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 130%;
-	padding-bottom: 50px;
-	border-radius: 90px;
-}
 .carne{
 	position: absolute;
-	background: white;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 31%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .carne1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-	font-size: 110%;
-    top: 32%;
-	left: 1px;
-}
-.caja5{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 190px;
-	padding-bottom: 50px;
-	border-radius: 90px;
+	font-size: 100%;
+    top: 102%;
+	left: 34.5%;
 }
 .postre{
 	position: absolute;
-	background: white;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 38.6%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .postre1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-	font-size: 110%;
-    top: 32%;
-	left: 1px;
-}
-.caja6{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 280px;
-	padding-bottom: 50px;
-	border-radius: 90px;
+	font-size: 100%;
+    top: 102%;
+	left: 42.3%;
 }
 .piña{
 	position: absolute;
-	background: white;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 46.2%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .piña1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-	font-size: 110%;
-    top: 32%;
-	left: 20px;
-}
-.caja7{
-    position: absolute;
-    background:#EEF0D0  ;
-    width: 74px;
-	height: 120px;
-	left: 370px;
-	padding-bottom: 50px;
-	border-radius: 90px;
+	font-size: 100%;
+    top: 102%;
+	left: 51.1%;
 }
 .sushi{
 	position: absolute;
-	background: white;
-	width: 60px;
-	height:60px;
-	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	background: #FECC01; 
+	border-radius: 43px;
+	width: 65px;
+	height: 65px;
+	padding-top: 18px;
+	padding-bottom: 95px;
+	padding-left:15px;
+	padding-right: 15px;
+	top:84%;
+	left: 53.9%;
+	visibility:visible;
+	margin: 34px;
+}
+img:hover{
+	visibility: hidden;
+	transition: 1.1ms;
 }
 .sushi1{
 	position: absolute;
 	font-family: sans-serif;
     font-style: normal;
 	color: black;
-	font-size: 110%;
-    top: 32%;
-	left: 16px;
+	font-size: 100%;
+    top: 102%;
+	left: 58%;
 }
-.caja8{
-    position: absolute;
-    background:white;
-    width: 74px;
-	height: 120px;
-	left: 567px;
-	padding-bottom: 50px;
-	border-radius: 90px;
-}
+
 .mayor{
 	position: absolute;
 	width: 30px;
 	height:30px;
 	border-radius: 90px;
-	left: 8px;
-	top: 7px;
+	left: 68%;
+	top:98%;
 }
 
 
 
 
 .pan{
-	position: relative;
+	position: absolute;
 	width: 250px;
 	height: 180px;
-	top: 187px;
-	right: 290px;
+	top:123%;
+	right: 79%;
 	border-radius: 20px;
 }
 /*.pan1{
@@ -398,35 +408,23 @@ header{
 }*/
 
 .tacos{
-	position: relative;
+	position: absolute;
 	width: 250px;
 	height: 180px;
-	top: 155%;
-	right: 290px;
+	top:123%;
+	left:  46%;
 	border-radius: 20px;
 }
-.tacos{
-	position: absolute;
-	left: 4px;
-	top: 204px;
 
-}
 
 .salmon{
-	position: relative;
+	position: absolute;
 	width: 250px;
 	height: 180px;
-	top: 155%;
-	right: 290px;
+	top: 123%;
+	left: 25%;
 	border-radius: 20px;
 }
-
-.salmon1{
-	position: relative;
-	bottom: 155%;
-	left: 795%;
-}
-
 .order{	
 	position: absolute;
 	font-family: sans-serif;
